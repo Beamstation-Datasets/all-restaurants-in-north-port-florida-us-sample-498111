@@ -1,0 +1,22 @@
+{
+  "base_price": 1950,
+  "beamstation_catalog_url": "https://beamstation.com/datasets",
+  "beamstation_origin": "https://beamstation.com",
+  "category_group_name": "Restaurants",
+  "config_category": "census",
+  "config_description": "Market-wide restaurant data for North Port in the Sunshine State. This city-level export includes every active restaurant listing filtered by the Restaurants category group, with review analytics and sentiment data. Refreshed weekly.",
+  "config_name": "All Restaurants in North Port, Florida, US",
+  "export_job_id": "897d704e-af78-47ef-b387-5b7f9106c370",
+  "github_org": "Beamstation-Datasets",
+  "id_short": 498111,
+  "location_name": "North Port",
+  "location_type": "city",
+  "repo_name": "all-restaurants-in-north-port-florida-us-sample-498111",
+  "sample_b2_path": "b2-export:BeamStation-ExportFiles/498111/beamstation_498111_restaurants-us-fl_SAMPLE_DIST.csv",
+  "sample_pct": 9.82,
+  "sample_records": 22,
+  "sample_sha256": "f4eca0e9621d856ab74a52596bfd6ffadcd1789d918cb06325996f0005c3e631",
+  "sample_size_bytes": 103649,
+  "total_records": 224,
+  "updated_at": "2026-03-31T15:07:06.922345+00:00"
+}
