@@ -1,12 +1,12 @@
 {
-  "export_job_id": "5349c60d-bd1c-43c4-ad92-67b86f5f21dd",
+  "export_job_id": "b433c875-10db-413a-838c-bd195ebe6140",
   "id_short": 498111,
-  "published_at": "2026-04-21T19:29:21Z",
+  "published_at": "2026-04-28T19:42:54Z",
   "repo_name": "all-restaurants-in-north-port-florida-us-sample-498111",
   "sample_asset_name": "beamstation_498111_restaurants-us-fl_SAMPLE_DIST.csv",
   "sample_b2_path": "b2-export:BeamStation-ExportFiles/498111/beamstation_498111_restaurants-us-fl_SAMPLE_DIST.csv",
-  "sample_records": 13,
-  "sample_sha256": "5ee7aeb90863a0ee1ea3019cdba7c7c73ae7cdceb4f95cffeae23c739ebcef9f",
-  "sample_size_bytes": 56089,
-  "total_records": 136
+  "sample_records": 26,
+  "sample_sha256": "7d8b09e9432fdf137fbab8391262af0ba44170b4ebc9ed327cb39f84e370b477",
+  "sample_size_bytes": 108625,
+  "total_records": 261
 }
